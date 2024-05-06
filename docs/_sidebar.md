@@ -9,6 +9,7 @@
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
+  - [Custo](pages/custos.md)
 
 - **Entregas**
   - [Entrega I](pages/entregas/entrega1.md)
