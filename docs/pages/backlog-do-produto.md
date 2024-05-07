@@ -8,6 +8,7 @@
 |06/05/2024 | 0.2 | Elaboração do documento | Douglas, Iago, Lucas, Pedro |
 |07/05/2024 | 0.3 | Atualização do documento | Douglas Farias |
 
+
 ## **1. Introdução**
 
 Neste documento de Backlog do Produto está organizado todas as funcionalidades do sequenciador elaborado no Lean Inception, os requisitos funcionais traduzidos em histórias de usuário e os requisitos não funcionais relacionadas ao desenvolvimento do Pitch It.

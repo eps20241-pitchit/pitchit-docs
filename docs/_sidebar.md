@@ -2,7 +2,7 @@
 
 - **Produto**
   - [Manual de Identidade Visual](pages/identidade_visual.md)
-  - [Prototipagem](pages/prototipo.md)
+  - [Prototipagem](pages/prototipo-alta-fidelidade.md)
 
 - **Projeto**
   - [Documento de Arquitetura de Software](pages/documento-de-arquitetura.md)
