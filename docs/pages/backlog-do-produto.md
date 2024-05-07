@@ -4,7 +4,10 @@
 
 | Data       | Versão | Descrição                                                                                              | Autor                        |
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------ | ---------------------------- |
-|06/05/2024 | 0.1    | Estrutura inicial do documento | Douglas, Iago, Lucas, Pedro |
+|06/05/2024 | 0.1 | Estrutura inicial do documento | Douglas Farias |
+|06/05/2024 | 0.2 | Elaboração do documento | Douglas, Iago, Lucas, Pedro |
+|07/05/2024 | 0.3 | Atualização do documento | Douglas Farias |
+
 
 ## **1. Introdução**
 
