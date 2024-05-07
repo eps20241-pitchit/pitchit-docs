@@ -5,6 +5,7 @@
   - [Prototipagem](pages/prototipo-alta-fidelidade.md)
 
 - **Projeto**
+  - [Canva MVP](pages/lean-inception.md) 
   - [Documento de Arquitetura de Software](pages/documento-de-arquitetura.md)
   - [Plano de riscos](pages/plano-de-riscos.md)
   - [Backlog do produto](pages/backlog-do-produto.md)
