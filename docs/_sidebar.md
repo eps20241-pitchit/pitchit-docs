@@ -1,16 +1,15 @@
 - [Home](README.md "Pitch It Docs")
 
 - **Produto**
-  - [Manual de Identidade Visual](pages/identidade_visual.md)
   - [Prototipagem](pages/prototipo-alta-fidelidade.md)
 
 - **Projeto**
-  - [Canva MVP](pages/lean-inception.md) 
-  - [Documento de Arquitetura de Software](pages/documento-de-arquitetura.md)
   - [Plano de riscos](pages/plano-de-riscos.md)
+  - [Custo](pages/custos.md)
+  - [Canva MVP](pages/lean-inception.md) 
   - [Backlog do produto](pages/backlog-do-produto.md)
   - [Priorização](pages/priorizacao.md)
-  - [Custo](pages/custos.md)
+  - [Documento de Arquitetura de Software](pages/documento-de-arquitetura.md)
 
 - **Entregas**
   - [Entrega I](pages/entregas/entrega1.md)
