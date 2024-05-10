@@ -16,7 +16,7 @@
 
 | Sprint | Data         | Descrição                                                              |
 |:------:| ------------ | ---------------------------------------------------------------------- |
-|   1    | 01/05--08/05 | Definição do Escopo do projeto |
+|   1    | 01/05 a 08/05 | Definição do Escopo do projeto |
 
 
 <div style="text-align: center">
@@ -47,6 +47,7 @@
 | Criação do Cronograma        | Pedro         |
 | Criação do Kanban        | Pedro         |
 | Criação e Configuração do Repositorio        | Douglas         |
+| Riscos do projeto         | Douglas         |
 | Configuração do Sonar        | Iago         |
 | Configuração do CI/CD        | Iago         |
 
