@@ -62,7 +62,7 @@
 
 | Início | Fim   |
 | ------ | ----- |
-| 01/05  | 08/05 |
+| 08/05  | 29/05 |
 
 <p>Tabela 4: Cronograma da Sprint 2 </p>
 
