@@ -7,6 +7,8 @@
 |:------:| --- | ----------------- | ----------------------------------- |
 |  1.0   | 07/05/2024    | Pedro Henrique Nogueira | Abertura do documento de cronograma | 
 |  2.0   | 10/05/2024    | Pedro Henrique Nogueira | Sprit 2 | 
+|  3.0   | 29/05/2024    | Pedro Henrique Nogueira | Sprit 3 | 
+|  4.0   | 07/06/2024    | Pedro Henrique Nogueira | Sprit 4 | 
 
 
 ## 2. Introdução
@@ -82,6 +84,55 @@
 <p>Tabela 5: Atividades realizadas</p>
 </div>
 
+### Sprint 3
+
+
+| Início | Fim   |
+| ------ | ----- |
+| 29/05  | 07/06 |
+
+<p>Tabela 6: Cronograma da Sprint 3 </p>
+
+<br>
+
+| Título                             | Responsáveis                 | 
+| ---------------------------------- | ---------------------------- | 
+| Desenvolvimento da tela de Home da aplicação   |Iago e Pedro               | 
+| Desenvolvimento da tela de Login da aplicação          | Iago e Pedro         |
+| Desenvolvimento da tela de Cadastro da aplicação          | Iago e Pedro         |
+| Desenvolvimento da tela de Quem Somos da aplicação          | Iago e Pedro         |
+| Desenvolvimento da tela de Exemplos de Pitch da aplicação          | Douglas e Lucas         |
+| Desenvolvimento da tela de Criar Pitch da aplicação          | Douglas e Lucas         |
+| Dar deploy do Front-End no Vercel         | Lucas         |
+
+
+<div style="text-align: center">
+<p>Tabela 7: Atividades realizadas</p>
+</div>
+
+
+### Sprint 4
+
+
+| Início | Fim   |
+| ------ | ----- |
+| 07/05  | 14/06 |
+
+<p>Tabela 8: Cronograma da Sprint 4 </p>
+
+<br>
+
+| Título                             | Responsáveis                 | 
+| ---------------------------------- | ---------------------------- | 
+| Fazer o deploy do microserviço de CRUD no Render   |Iago e Pedro               | 
+| Fazer o deploy do microserviço de Geração de Pitch no Render   |Iago e Pedro               | 
+| Gravar um Pitch de 5 minutos para o Desafio Liga Jovem  | Lucas        | 
+
+
+
+<div style="text-align: center">
+<p>Tabela 9: Atividades realizadas</p>
+</div>
 
 ## 4. Referências
 >DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
