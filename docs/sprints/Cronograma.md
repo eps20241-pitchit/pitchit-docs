@@ -43,7 +43,7 @@
 | Título                             | Responsáveis                 | 
 | ---------------------------------- | ---------------------------- | 
 | Criação do Backlog do Produto    | Douglas, Iago, Lucas e Pedro               | 
-| Definição dos Microserviços           | Douglas, Iago, Lucas e Pedro          |
+| Definição dos Microsserviços           | Douglas, Iago, Lucas e Pedro          |
 | Criação do Protótip de Alta Fidelidade        | Lucas           |
 | Criação do documento de Planos de Custos        | Lucas           |
 | Criação do Canvas MVP        | Douglas, Iago, Lucas e Pedro         |
@@ -150,8 +150,8 @@
 
 | Título                             | Responsáveis                 | 
 | ---------------------------------- | ---------------------------- | 
-| Encontrar Microserviços para serem consumidos   |   Douglas, Iago, Lucas e Pedro            | 
-| Consumir os Microserviços    |Douglas, Iago, Lucas e Pedro                   | 
+| Encontrar Microsserviços para serem consumidos   |   Douglas, Iago, Lucas e Pedro            | 
+| Consumir os Microsserviços    |Douglas, Iago, Lucas e Pedro                   | 
 
 
 
