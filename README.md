@@ -9,5 +9,4 @@ PitchIt é uma aplicação que te ajuda a criar seu pitch em minutos, combinando
 | -- | -- | -- |
 | 17/0140571 | Douglas Farias de Castro | [@douglasffcastro](https://github.com/douglasffcastro) |
 | 19/0088745 | Iago Cabral  | [@iagocabral](https://github.com/iagocabral) |
-| 18/0105345 | Lucas Lima Ferraz | [@mibasFerraz](https://github.com/mibasFerraz) |
 | 19/0094486 | Pedro Nogueira | [@phnog](https://github.com/phnog) |
