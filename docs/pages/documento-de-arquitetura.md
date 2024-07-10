@@ -4,7 +4,7 @@
 
 Este documento descreve a arquitetura de software para um projeto que utiliza o React no frontend, quatro microsserviços implementados com FastAPI e um banco de dados para cada microsserviço. A arquitetura foi projetada para ser escalável, resiliente e de alto desempenho. A arquitetura do sistema é baseada em uma abordagem de microsserviços, onde diferentes componentes são separados em serviços independentes e interagem através de interfaces bem definidas. A seguir, apresenta-se um esboço da arquitetura em alto nível:
 
-![Arquitetura](../assets/images/arquiteturas.jpeg)
+![Arquitetura](../assets/images/Diagrama-pitchit.jpg)
 <figcaption style="text-align: center !important">
     Fonte: Próprio autor
   </figcaption>
@@ -52,12 +52,6 @@ Serviço responsável por gerenciar os usuários da aplicação, incluindo cadas
 #### Gerador de pitch
 Serviço responsável por gerar o pitch a patir de dados fornecidos pelo usuário.
 
-#### Post
-Serviço responsável por postar os pitchs gerados no linkedin e instagram.
-
-#### Agendamento
-Serviço responsável por agendar as postagens criadas pelo usuário.
-
 Será utilizado o SOLID (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation e Dependency Inversion) para garantir a qualidade do código, facilitar a manutenção e evolução do projeto.
 
 Para padrões de projeto, serão utilizados os padrões:
@@ -69,15 +63,6 @@ Associada a granularidade de cada microsserviço, permitirá que cada serviço/e
 
 #### Facade
 Com esse padrão, o usuário poderá realizar tarefas complexas que utilizam várias classes de forma mais simples, sem precisar conhecer a complexidade do sistema.
-
-### Banco de Dados
-<!-- #### DER
-O Diagrama de Entidade-Relacionamento (DER) é uma ferramenta utilizada para modelar os dados de um sistema de forma conceitual. O DER é composto por entidades, atributos, relacionamentos entre as entidades e suas cardinalidades. O DER é uma ferramenta poderosa para a modelagem de dados, pois permite visualizar e entender a estrutura dos dados de um sistema de forma clara. O DER identificado para o projeto é:
-
-![DER](../assets/der.png)
-<figcaption style="text-align: center !important">
-    Fonte: Próprio autor
-  </figcaption> -->
 
 ## Considerações de Segurança
 
@@ -142,3 +127,4 @@ Padrão para atribuir responsabilidades: Expert. Disponível em: http://www.dsc.
 |  Data  |   Versão   | Descrição |Autor(es)
 |:------:|-----------:|:-------:|:---:|
 | 14/05/2024 | 1.0 | Criação | [Lucas](https://gitlab.com/mibasFerraz)|
+| 09/07/2024 | 2.0 | Atualização do diagrama | [Douglas](https://gitlab.com/douglasffcastro)|

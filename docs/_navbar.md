@@ -1,1 +1,0 @@
-- [Entrega I](pages/entregas/entrega1.md)
