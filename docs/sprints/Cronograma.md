@@ -10,6 +10,7 @@
 |  3.0   | 29/05/2024    | Pedro Henrique Nogueira | Sprint 3 | 
 |  4.0   | 07/06/2024    | Pedro Henrique Nogueira | Sprint 4 | 
 |  5.0   | 21/06/2024    | Pedro Henrique Nogueira | Sprint 5 |
+|  6.0   | 28/06/2024    | Pedro Henrique Nogueira | Sprint 6 |
 
 
 ## 2. Introdução
@@ -137,7 +138,7 @@
 
 
 
-### Sprint 4
+### Sprint 5
 
 
 | Início | Fim   |
@@ -158,6 +159,32 @@
 
 <div style="text-align: center">
 <p>Tabela 11: Atividades realizadas</p>
+</div>
+
+
+### Sprint 6
+
+
+| Início | Fim   |
+| ------ | ----- |
+| 28/06  | 05/07 |
+
+<p>Tabela 12: Cronograma da Sprint 6 </p>
+
+<br>
+
+| Título                             | Responsáveis                 | 
+| ---------------------------------- | ---------------------------- | 
+| Consumir o microsserviço do chatbot |    Iago e Pedro            | 
+| Consumir o microsserviço do criptografia |    Iago e Pedro            | 
+| Consumir o microsserviço de email |    Iago e Pedro            |
+| Desenvolver novo pitch    |Douglas       | 
+| Ajeitar o projeto para enviar  |   Douglas, Iago e Pedro            |
+
+
+
+<div style="text-align: center">
+<p>Tabela 13: Atividades realizadas</p>
 </div>
 
 
